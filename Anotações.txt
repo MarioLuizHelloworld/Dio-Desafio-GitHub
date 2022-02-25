@@ -1,5 +1,5 @@
-# Algumas rápidas anotações exemplo sobre o curso de GIT/GitHub
+Algumas rápidas anotações exemplo sobre o curso de GIT/GitHub:
 
-Commit => Commitar se refere ao ato de salvar uma versão do arquivo no repositório Local.
-Push => Basicamente, é o envio dos arquivos presentes no repositório Local para o Repositório Remoto.
-Forks => Pegar um código de outro usuário no GitHub e fazer minhas modificações (Há algumas ressalvas).
+1. Commit => Commitar se refere ao ato de salvar uma versão do arquivo no repositório Local.
+2. Push => Basicamente, é o envio dos arquivos presentes no repositório Local para o Repositório Remoto.
+3. Forks => Pegar um código de outro usuário no GitHub e fazer minhas modificações (Há algumas ressalvas).
